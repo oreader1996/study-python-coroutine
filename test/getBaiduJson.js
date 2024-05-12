@@ -1,4 +1,4 @@
-
+// 懒得去搞url,直接复制百度图片响应,获取图片url
 
 response = {
     "queryEnc": "%CD%B7%CF%F1",
